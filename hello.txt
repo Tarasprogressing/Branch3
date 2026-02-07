@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hallo from master!
+=======
+Hello from branch2!
+>>>>>>> branch2
