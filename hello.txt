@@ -1,2 +1,1 @@
-Hallo from branch2!
-this text is the test. 
+Hallo from main!
