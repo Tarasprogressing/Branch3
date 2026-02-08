@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Hallo from branch2!
-=======
-Hallo from branch 3!
-
->>>>>>> 0c9ade29f7d477bdbdde5139a69d120c64695e44
+Add some text. 
